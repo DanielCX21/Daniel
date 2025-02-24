@@ -1,1 +1,1 @@
-# Daniel
+Hi, I’m Daniel I’m interested in engineering, technology and mathematics. I’m currently studying communications engeneerings at the Instituto Militar de Engenharia (IME). I'm focusing my study to computer networks, Iot and cibersecurity. I'm the current president of the Information Security initiative at IME. My personal interests is studying and blockchain technologies(web3), endurance sports (running, cycling, rollerblading), and Drums.
